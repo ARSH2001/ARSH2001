@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alireza</h1>
-<h3 align="center">An ML/DL enthusiast who has recently been attracted to graph representation learning</h3>
+<h3 align="center">An ML/DL enthusiast who has recently been attracted to vision computer and physics-informed neural networks (PINNs)</h3>
 
 
-- 🔭 I’m currently working on **Jacobi graph pooling**
+- 🔭 I’m currently working on **Vision computer and Physics-informed neural networks (PINNs)**
 
-- 🌱 I’m currently learning **CUDA semantics in PyTorch, and LLMs**
-
-- 💬 Ask me about **ML/DL, Graph Representation Learning, Data Mining**
+- 💬 Ask me about **ML/DL, Data Mining**
 
 - 📫 How to reach me **alireza.salehi.ha@gmail.com**
 
